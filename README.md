@@ -7,7 +7,7 @@
   </picture>
   &nbsp;
   <picture>
-    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kralle333&layout=compact&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kralle333&layout=compact&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" media="(prefers-color-scheme: dark)" />
     <img alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kralle333&layout=compact&langs_count=10" height="165" />
   </picture>
 </div>
